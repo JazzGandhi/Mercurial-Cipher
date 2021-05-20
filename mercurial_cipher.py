@@ -49,8 +49,6 @@ def encryption(plain_text,key1,key2):
 	n=len(text_ascii) 
 	# Length of plain text
 
-	# KEY BAAKI HAI
-	# KEY KA 
 
 	second_phase=[]
 	unicodex=[]
